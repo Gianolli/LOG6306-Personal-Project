@@ -1,0 +1,41 @@
+-- Voice report for  --
+Date: Thu May 04 13:26:09 2023
+
+WARNING: some of the following measurements may be imprecise.
+For more precision, go to "Pitch settings" and choose
+the cross-correlation analysis method to optimize for voice research.
+
+Time range of SELECTION
+   From 0 to 3.098200 seconds (duration: 3.098200 seconds)
+Pitch:
+   Median pitch: 136.280 Hz
+   Mean pitch: 143.521 Hz
+   Standard deviation: 61.049 Hz
+   Minimum pitch: 75.261 Hz
+   Maximum pitch: 498.979 Hz
+Pulses:
+   Number of pulses: 292
+   Number of periods: 283
+   Mean period: 7.045514E-3 seconds
+   Standard deviation of period: 2.084173E-3 seconds
+Voicing:
+   Fraction of locally unvoiced frames: 32.353%   (99 / 306)
+   Number of voice breaks: 8
+   Degree of voice breaks: 24.751%   (0.766821 seconds / 3.098200 seconds)
+Jitter:
+   Jitter (local): 1.863%
+   Jitter (local, absolute): 131.269E-6 seconds
+   Jitter (rap): 0.579%
+   Jitter (ppq5): 0.732%
+   Jitter (ddp): 1.738%
+Shimmer:
+   Shimmer (local): 5.312%
+   Shimmer (local, dB): 0.666 dB
+   Shimmer (apq3): 1.195%
+   Shimmer (apq5): 2.109%
+   Shimmer (apq11): 5.217%
+   Shimmer (dda): 3.586%
+Harmonicity of the voiced parts only:
+   Mean autocorrelation: 0.917431
+   Mean noise-to-harmonics ratio: 0.120790
+   Mean harmonics-to-noise ratio: 14.799 dB
